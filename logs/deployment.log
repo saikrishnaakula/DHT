@@ -1,0 +1,231 @@
+10-17 16:01 DHT          INFO     Running on IP: 192.168.43.234
+10-17 16:01 DHT          INFO     Running on port: 9000
+10-17 16:01 node-1       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-1       INFO     Running on port: 51905
+10-17 16:01 node-2       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-2       INFO     Running on port: 51906
+10-17 16:01 node-3       INFO     Running on IP: 192.168.43.234
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51908)
+10-17 16:01 node-4       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-3       INFO     Running on port: 51907
+10-17 16:01 node-4       INFO     Running on port: 51909
+10-17 16:01 node-5       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-5       INFO     Running on port: 51911
+10-17 16:01 node-6       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-6       INFO     Running on port: 51912
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51910)
+10-17 16:01 DHT          INFO     Registering the node 51905
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}]
+10-17 16:01 node-1       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     Registered the node 51905
+10-17 16:01 node-1       INFO     registered successfully
+10-17 16:01 node-7       INFO     Running on IP: 192.168.43.234
+10-17 16:01 node-7       INFO     Running on port: 51914
+10-17 16:01 DHT          INFO     Registering the node 51906
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51913)
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}]
+10-17 16:01 node-2       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     Registered the node 51906
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51915)
+10-17 16:01 DHT          INFO     Registering the node 51907
+10-17 16:01 DHT          INFO     Sent list of files to 51905
+10-17 16:01 node-2       INFO     registered successfully
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51916)
+10-17 16:01 node-8       INFO     Running on IP: 192.168.43.234
+10-17 16:01 DHT          INFO     Registering the node 51909
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}]
+10-17 16:01 node-3       INFO     Node registered with DHT Server 9000
+10-17 16:01 node-8       INFO     Running on port: 51919
+10-17 16:01 node-9       INFO     Running on IP: 192.168.43.234
+10-17 16:01 DHT          INFO     Registered the node 51907
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}]
+10-17 16:01 node-4       INFO     Node registered with DHT Server 9000
+10-17 16:01 node-9       INFO     Running on port: 51920
+10-17 16:01 DHT          INFO     Registered the node 51909
+10-17 16:01 node-3       INFO     registered successfully
+10-17 16:01 node-4       INFO     registered successfully
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51917)
+10-17 16:01 DHT          INFO     Registering the node 51911
+10-17 16:01 node-5       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}]
+10-17 16:01 DHT          INFO     Registered the node 51911
+10-17 16:01 node-5       INFO     registered successfully
+10-17 16:01 DHT          INFO     Sent list of files to 51907
+10-17 16:01 DHT          INFO     Sent list of files to 51909
+10-17 16:01 DHT          INFO     Sent list of files to 51906
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51918)
+10-17 16:01 DHT          INFO     Registering the node 51912
+10-17 16:01 DHT          INFO     Sent list of files to 51911
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51921)
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}]
+10-17 16:01 node-6       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     Registered the node 51912
+10-17 16:01 DHT          INFO     Registering the node 51914
+10-17 16:01 node-6       INFO     registered successfully
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}]
+10-17 16:01 node-7       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     Registered the node 51914
+10-17 16:01 node-7       INFO     registered successfully
+10-17 16:01 DHT          INFO     Client registered ('192.168.43.234', 51922)
+10-17 16:01 DHT          INFO     Registering the node 51919
+10-17 16:01 DHT          INFO     Sent list of files to 51912
+10-17 16:01 DHT          INFO     Sent list of files to 51914
+10-17 16:01 node-8       INFO     Node registered with DHT Server 9000
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}]
+10-17 16:01 node-2       INFO     Client registered ('192.168.43.234', 51923)
+10-17 16:01 DHT          INFO     Registered the node 51919
+10-17 16:01 DHT          INFO     Registering the node 51920
+10-17 16:01 node-8       INFO     registered successfully
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 DHT          INFO     Registered the node 51920
+10-17 16:01 node-9       INFO     Node registered with DHT Server 9000
+10-17 16:01 node-9       INFO     registered successfully
+10-17 16:01 node-4       INFO     Client registered ('192.168.43.234', 51924)
+10-17 16:01 node-1       INFO     Client registered ('192.168.43.234', 51925)
+10-17 16:01 node-3       INFO     Client registered ('192.168.43.234', 51926)
+10-17 16:01 DHT          INFO     Sent list of files to 51919
+10-17 16:01 DHT          INFO     Sent list of files to 51920
+10-17 16:01 node-2       INFO     md5 token sent to ('192.168.43.234', 51923)
+10-17 16:01 node-2       INFO     download requested for file 2.pdf size 9023547Bytes by ('192.168.43.234', 51923)
+10-17 16:01 node-2       INFO     sending file 2.pdf to ('192.168.43.234', 51923)
+10-17 16:01 DHT          INFO     updated the file list of the node 51907
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\3\2.pdf.
+10-17 16:01 node-3       INFO     md5 token sent to ('192.168.43.234', 51926)
+10-17 16:01 node-3       INFO     download requested for file 3.pdf size 9023547Bytes by ('192.168.43.234', 51926)
+10-17 16:01 node-3       INFO     sending file 3.pdf to ('192.168.43.234', 51926)
+10-17 16:01 DHT          INFO     updated the file list of the node 51909
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\4\3.pdf.
+10-17 16:01 node-1       INFO     md5 token sent to ('192.168.43.234', 51925)
+10-17 16:01 node-1       INFO     download requested for file 1.pdf size 9023547Bytes by ('192.168.43.234', 51925)
+10-17 16:01 node-1       INFO     sending file 1.pdf to ('192.168.43.234', 51925)
+10-17 16:01 DHT          INFO     updated the file list of the node 51906
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\2\1.pdf.
+10-17 16:01 node-4       INFO     md5 token sent to ('192.168.43.234', 51924)
+10-17 16:01 node-4       INFO     download requested for file 4.pdf size 9023547Bytes by ('192.168.43.234', 51924)
+10-17 16:01 node-4       INFO     sending file 4.pdf to ('192.168.43.234', 51924)
+10-17 16:01 DHT          INFO     updated the file list of the node 51911
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\5\4.pdf.
+10-17 16:01 node-6       INFO     Client registered ('192.168.43.234', 51927)
+10-17 16:01 node-5       INFO     Client registered ('192.168.43.234', 51928)
+10-17 16:01 node-2       INFO     file 2.pdf sent in 1.0371 seconds to ('192.168.43.234', 51923)
+10-17 16:01 node-2       INFO     1.0371 seconds
+10-17 16:01 node-2       INFO     connection closed for 51923
+10-17 16:01 DHT          INFO     updated the file list of the node 51907
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\3\2.pdf.
+10-17 16:01 node-6       INFO     md5 token sent to ('192.168.43.234', 51927)
+10-17 16:01 node-6       INFO     download requested for file 6.pdf size 9023547Bytes by ('192.168.43.234', 51927)
+10-17 16:01 node-6       INFO     sending file 6.pdf to ('192.168.43.234', 51927)
+10-17 16:01 DHT          INFO     updated the file list of the node 51914
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\7\6.pdf.
+10-17 16:01 node-3       INFO     file 3.pdf sent in 1.0185 seconds to ('192.168.43.234', 51926)
+10-17 16:01 node-3       INFO     1.0185 seconds
+10-17 16:01 node-3       INFO     connection closed for 51926
+10-17 16:01 DHT          INFO     updated the file list of the node 51909
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\4\3.pdf.
+10-17 16:01 node-5       INFO     md5 token sent to ('192.168.43.234', 51928)
+10-17 16:01 node-5       INFO     download requested for file 5.pdf size 9023547Bytes by ('192.168.43.234', 51928)
+10-17 16:01 DHT          INFO     updated the file list of the node 51912
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\6\5.pdf.
+10-17 16:01 node-5       INFO     sending file 5.pdf to ('192.168.43.234', 51928)
+10-17 16:01 node-1       INFO     file 1.pdf sent in 1.2028 seconds to ('192.168.43.234', 51925)
+10-17 16:01 node-1       INFO     1.2028 seconds
+10-17 16:01 node-1       INFO     connection closed for 51925
+10-17 16:01 DHT          INFO     updated the file list of the node 51906
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\2\1.pdf.
+10-17 16:01 node-4       INFO     file 4.pdf sent in 1.1030 seconds to ('192.168.43.234', 51924)
+10-17 16:01 node-4       INFO     1.1030 seconds
+10-17 16:01 node-4       INFO     connection closed for 51924
+10-17 16:01 DHT          INFO     updated the file list of the node 51911
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\5\4.pdf.
+10-17 16:01 node-8       INFO     Client registered ('192.168.43.234', 51929)
+10-17 16:01 node-7       INFO     Client registered ('192.168.43.234', 51930)
+10-17 16:01 node-6       INFO     file 6.pdf sent in 0.9085 seconds to ('192.168.43.234', 51927)
+10-17 16:01 node-6       INFO     0.9085 seconds
+10-17 16:01 node-6       INFO     connection closed for 51927
+10-17 16:01 DHT          INFO     updated the file list of the node 51914
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\7\6.pdf.
+10-17 16:01 node-8       INFO     md5 token sent to ('192.168.43.234', 51929)
+10-17 16:01 node-8       INFO     download requested for file 8.pdf size 9023547Bytes by ('192.168.43.234', 51929)
+10-17 16:01 node-8       INFO     sending file 8.pdf to ('192.168.43.234', 51929)
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 node-7       INFO     md5 token sent to ('192.168.43.234', 51930)
+10-17 16:01 node-7       INFO     download requested for file 7.pdf size 9023547Bytes by ('192.168.43.234', 51930)
+10-17 16:01 node-7       INFO     sending file 7.pdf to ('192.168.43.234', 51930)
+10-17 16:01 DHT          INFO     updated the file list of the node 51919
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\8\7.pdf.
+10-17 16:01 node-5       INFO     file 5.pdf sent in 0.8414 seconds to ('192.168.43.234', 51928)
+10-17 16:01 node-5       INFO     0.8414 seconds
+10-17 16:01 node-5       INFO     connection closed for 51928
+10-17 16:01 DHT          INFO     updated the file list of the node 51912
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\6\5.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51919
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\8\7.pdf.
+10-17 16:01 node-8       INFO     file 8.pdf sent in 0.6507 seconds to ('192.168.43.234', 51929)
+10-17 16:01 node-8       INFO     0.6507 seconds
+10-17 16:01 node-8       INFO     connection closed for 51929
+10-17 16:01 DHT          INFO     updated the file list of the node 51920
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\9\8.pdf.
+10-17 16:01 DHT          INFO     updated the file list of the node 51919
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\8\7.pdf.
+10-17 16:01 node-7       INFO     file 7.pdf sent in 0.6430 seconds to ('192.168.43.234', 51930)
+10-17 16:01 node-7       INFO     0.6430 seconds
+10-17 16:01 node-7       INFO     connection closed for 51930
+10-17 16:01 DHT          INFO     updated the file list of the node 51919
+10-17 16:01 DHT          INFO     [{'port': 51905, 'childPort': 51908, 'files': ['1.pdf'], 'active': True}, {'port': 51906, 'childPort': 51910, 'files': ['1.pdf', '2.pdf'], 'active': True}, {'port': 51907, 'childPort': 51913, 'files': ['2.pdf', '3.pdf'], 'active': True}, {'port': 51909, 'childPort': 51915, 'files': ['3.pdf', '4.pdf'], 'active': True}, {'port': 51911, 'childPort': 51916, 'files': ['4.pdf', '5.pdf'], 'active': True}, {'port': 51912, 'childPort': 51917, 'files': ['5.pdf', '6.pdf'], 'active': True}, {'port': 51914, 'childPort': 51918, 'files': ['6.pdf', '7.pdf'], 'active': True}, {'port': 51919, 'childPort': 51921, 'files': ['7.pdf', '8.pdf'], 'active': True}, {'port': 51920, 'childPort': 51922, 'files': ['8.pdf', '9.pdf'], 'active': True}]
+10-17 16:01 root         INFO     updated successfully
+10-17 16:01 root         INFO     file updated files\8\7.pdf.
